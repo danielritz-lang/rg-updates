@@ -1,11 +1,11 @@
 {
-  "build" : 21,
+  "build" : 22,
   "channel" : "rg",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• RG hat einen Namen: RG – Rechnungsgenie. In der App bleibt das Kürzel «RG».\n• Fenster öffnen sich gross genug für ihren ganzen Inhalt (höchstens so hoch wie der Bildschirm). Die Einstellungen passen ihre Höhe dem gewählten Bereich an, damit nichts abgeschnitten ist.\n• Die App heisst für alle einfach «RG». Wer sie noch als «RG Testkopie» oder «RG Kollegen» im Ordner Programme hat, kann sie im Finder in «RG» umbenennen.\n• «Einstellungen sichern oder auf einen anderen Mac übertragen» ist klarer beschriftet und erklärt die drei Schritte.\n• Der Einrichtungs-Assistent fragt jetzt alles ab, was RG braucht: Sicherungsdatei von einem anderen Mac übernehmen, Ablageordner, E-Mail, Name und Betreff mit Vorschau der Nachricht, Barauslagen mit Adresse, Bankverbindung und Unterschrift – und zeigt am Schluss eine Übersicht.",
-  "sha256" : "60731e871c9b5a3acfbd2adf7ab46eced46c540427401a2f68a3d713aacaee07",
-  "signature" : "KOe5syci/QoH2D8bNCpL7kqBvH2iYVbgkBf8Mvv5eCcFf1T/ROHIHC9NmtqV7fkC/7rSzMHjZj9wwwsY0iZTCQ==",
-  "size" : 6598192,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/persoenlich-2.5/RG-persoenlich-2.5.zip",
-  "version" : "2.5"
+  "notes" : "• Ein bereites Update zeigt RG neu als Leiste oben im Fenster statt als Dialog. Ein offener Dialog hatte verhindert, dass sich RG beenden liess – und damit auch, dass das Update installiert wurde.\n• RG sucht bei jedem Start nach Updates (bisher höchstens einmal am Tag) und danach alle paar Stunden, solange RG offen ist.\n• Ein heruntergeladenes Update geht nicht mehr verloren: Wurde RG nicht normal beendet, etwa beim Neustart des Macs, bietet RG es beim nächsten Start wieder an – ohne erneuten Download und erneut geprüft.",
+  "sha256" : "d38df3f4a49c34b728e4f2dbf0e35d272e090dd0e7e8d0ec6588cf821fd20518",
+  "signature" : "EMsGK1MpQ+ZAdt0gwyHwQETVVYbYQu9ZtK0Mvz6Uiq1BWUkNeM3etW7fcuuqWqPDoY2wf92AO58ZjmS+eiacDg==",
+  "size" : 6665246,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/persoenlich-2.6/RG-persoenlich-2.6.zip",
+  "version" : "2.6"
 }
