@@ -1,0 +1,11 @@
+{
+  "build" : 19,
+  "channel" : "kollegen",
+  "minimumSystemVersion" : "14.0",
+  "notes" : "RG 2.3: automatische Updates. Dazu alle Verbesserungen aus 2.2 (Versandsicherheit, Erkennung, Zoom, Barauslagen).",
+  "sha256" : "8de0ff0e4f9f9129410196a0a62fe254d9305dcd14634a9a4fc0a93fc06596cb",
+  "signature" : "J1Ib06RK+SL3PEiZpQqiZ1yG5DSu0me9fTui2BCibf39Va/QZ8ZdUuIi3sTgSJu5nOhHBqOuIqj2L1z8KPztAQ==",
+  "size" : 5859063,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/kollegen-2.3/RG-Testkopie-2.3.zip",
+  "version" : "2.3"
+}
