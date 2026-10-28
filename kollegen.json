@@ -1,11 +1,11 @@
 {
-  "build" : 21,
+  "build" : 22,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• RG hat einen Namen: RG – Rechnungsgenie. In der App bleibt das Kürzel «RG».\n• Fenster öffnen sich gross genug für ihren ganzen Inhalt (höchstens so hoch wie der Bildschirm). Die Einstellungen passen ihre Höhe dem gewählten Bereich an, damit nichts abgeschnitten ist.\n• Die App heisst für alle einfach «RG». Wer sie noch als «RG Testkopie» oder «RG Kollegen» im Ordner Programme hat, kann sie im Finder in «RG» umbenennen.\n• «Einstellungen sichern oder auf einen anderen Mac übertragen» ist klarer beschriftet und erklärt die drei Schritte.\n• Der Einrichtungs-Assistent fragt jetzt alles ab, was RG braucht: Sicherungsdatei von einem anderen Mac übernehmen, Ablageordner, E-Mail, Name und Betreff mit Vorschau der Nachricht, Barauslagen mit Adresse, Bankverbindung und Unterschrift – und zeigt am Schluss eine Übersicht.",
-  "sha256" : "e9cefab7623bbe8b64ed0f500f2a1adfd54a9c245fa96a579977c088164b9bf6",
-  "signature" : "8/jIdZXpjD10X/uYQYA2DtHDsmo4UXOsonsflaQ73M1TCGbA9es98Ly87qwHqNhWEJraG4JeJcQR9DrblE51Dw==",
-  "size" : 6601476,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.5/RG-2.5.zip",
-  "version" : "2.5"
+  "notes" : "• Ein bereites Update zeigt RG neu als Leiste oben im Fenster statt als Dialog. Ein offener Dialog hatte verhindert, dass sich RG beenden liess – und damit auch, dass das Update installiert wurde.\n• RG sucht bei jedem Start nach Updates (bisher höchstens einmal am Tag) und danach alle paar Stunden, solange RG offen ist.\n• Ein heruntergeladenes Update geht nicht mehr verloren: Wurde RG nicht normal beendet, etwa beim Neustart des Macs, bietet RG es beim nächsten Start wieder an – ohne erneuten Download und erneut geprüft.",
+  "sha256" : "af05095cbbe468b9549817111cdf606659f126baa97fae96b0105247b3078e80",
+  "signature" : "h1YhE/Luf9IIopB0B38vWWIOlUCvM7WoZ0QU7bmhtiw+TrxT8HXJ1HxsfrHy8/ul15Ssity+xsLdBceRwnw3Aw==",
+  "size" : 6668187,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.6/RG-2.6.zip",
+  "version" : "2.6"
 }
