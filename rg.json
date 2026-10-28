@@ -1,0 +1,11 @@
+{
+  "build" : 19,
+  "channel" : "rg",
+  "minimumSystemVersion" : "14.0",
+  "notes" : "RG 2.3: automatische Updates.",
+  "sha256" : "02e217beb624bfd67f393b101a7a0301737220c422e9c946a5fa314c1ecbf0a4",
+  "signature" : "pTWWgaL+ThoeWmCcSILhdWMkR4SN5LvFxG2Qpq99WZX9qw9PkUOQHrB/qaF519IsZLOuoCHppfCng/353sLvCQ==",
+  "size" : 5855097,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/rg-2.3/RG-2.3.zip",
+  "version" : "2.3"
+}
