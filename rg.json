@@ -1,11 +1,11 @@
 {
-  "build" : 19,
+  "build" : 20,
   "channel" : "rg",
   "minimumSystemVersion" : "14.0",
-  "notes" : "RG 2.3: automatische Updates.",
-  "sha256" : "02e217beb624bfd67f393b101a7a0301737220c422e9c946a5fa314c1ecbf0a4",
-  "signature" : "pTWWgaL+ThoeWmCcSILhdWMkR4SN5LvFxG2Qpq99WZX9qw9PkUOQHrB/qaF519IsZLOuoCHppfCng/353sLvCQ==",
-  "size" : 5855097,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/rg-2.3/RG-2.3.zip",
-  "version" : "2.3"
+  "notes" : "• Versionshinweise: Nach jedem Update zeigt RG, was neu ist. Alle Hinweise findest du jederzeit im Hilfe-Menü unter «Versionshinweise».\n• Datenschutz: Eine neue Übersicht im Hilfe-Menü zeigt, welche Daten RG wo speichert, was RG liest und was RG sendet.\n• Bankverbindung und Unterschrift liegen neu im Schlüsselbund deines Macs statt in einer Datei im App-Ordner. Die Übernahme geschieht beim ersten Start automatisch.\n• Sichern und übertragen: Einstellungen und Barauslagen-Angaben lassen sich mit Passwort verschlüsselt sichern und auf einem anderen Mac wieder einlesen (Einstellungen › Allgemein).\n• Systemprüfung und «Problem melden» im Hilfe-Menü: RG prüft die wichtigsten Punkte und bereitet bei Bedarf eine E-Mail mit dem Bericht vor. Gesendet wird erst, wenn du selbst sendest.\n• Aus der «Testkopie» wird die Kollegen-Version: Betreff «RG» statt «RG TEST», neutrale Vorlage; Einstellungen und Daten bleiben erhalten.",
+  "sha256" : "639dd6f325715fd4524b81fb074e90744dc25eb77c6c40862f5b5decb13e0b5b",
+  "signature" : "0eucp8iXsAR2jAgwG7tyWUm1rjQGuqcIFtBq40nepNwy+s076gmWjBXgae4Nw9yFn2ZMAAO9BSiDjxseGYaMBA==",
+  "size" : 6225789,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/rg-2.4/RG-2.4.zip",
+  "version" : "2.4"
 }
