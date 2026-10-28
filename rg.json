@@ -1,11 +1,11 @@
 {
-  "build" : 20,
+  "build" : 21,
   "channel" : "rg",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Versionshinweise: Nach jedem Update zeigt RG, was neu ist. Alle Hinweise findest du jederzeit im Hilfe-Menü unter «Versionshinweise».\n• Datenschutz: Eine neue Übersicht im Hilfe-Menü zeigt, welche Daten RG wo speichert, was RG liest und was RG sendet.\n• Bankverbindung und Unterschrift liegen neu im Schlüsselbund deines Macs statt in einer Datei im App-Ordner. Die Übernahme geschieht beim ersten Start automatisch.\n• Sichern und übertragen: Einstellungen und Barauslagen-Angaben lassen sich mit Passwort verschlüsselt sichern und auf einem anderen Mac wieder einlesen (Einstellungen › Allgemein).\n• Systemprüfung und «Problem melden» im Hilfe-Menü: RG prüft die wichtigsten Punkte und bereitet bei Bedarf eine E-Mail mit dem Bericht vor. Gesendet wird erst, wenn du selbst sendest.\n• Aus der «Testkopie» wird die Kollegen-Version: Betreff «RG» statt «RG TEST», neutrale Vorlage; Einstellungen und Daten bleiben erhalten.",
-  "sha256" : "639dd6f325715fd4524b81fb074e90744dc25eb77c6c40862f5b5decb13e0b5b",
-  "signature" : "0eucp8iXsAR2jAgwG7tyWUm1rjQGuqcIFtBq40nepNwy+s076gmWjBXgae4Nw9yFn2ZMAAO9BSiDjxseGYaMBA==",
-  "size" : 6225789,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/rg-2.4/RG-2.4.zip",
-  "version" : "2.4"
+  "notes" : "• RG hat einen Namen: RG – Rechnungsgenie. In der App bleibt das Kürzel «RG».\n• Fenster öffnen sich gross genug für ihren ganzen Inhalt (höchstens so hoch wie der Bildschirm). Die Einstellungen passen ihre Höhe dem gewählten Bereich an, damit nichts abgeschnitten ist.\n• Die App heisst für alle einfach «RG». Wer sie noch als «RG Testkopie» oder «RG Kollegen» im Ordner Programme hat, kann sie im Finder in «RG» umbenennen.\n• «Einstellungen sichern oder auf einen anderen Mac übertragen» ist klarer beschriftet und erklärt die drei Schritte.\n• Der Einrichtungs-Assistent fragt jetzt alles ab, was RG braucht: Sicherungsdatei von einem anderen Mac übernehmen, Ablageordner, E-Mail, Name und Betreff mit Vorschau der Nachricht, Barauslagen mit Adresse, Bankverbindung und Unterschrift – und zeigt am Schluss eine Übersicht.",
+  "sha256" : "60731e871c9b5a3acfbd2adf7ab46eced46c540427401a2f68a3d713aacaee07",
+  "signature" : "KOe5syci/QoH2D8bNCpL7kqBvH2iYVbgkBf8Mvv5eCcFf1T/ROHIHC9NmtqV7fkC/7rSzMHjZj9wwwsY0iZTCQ==",
+  "size" : 6598192,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/persoenlich-2.5/RG-persoenlich-2.5.zip",
+  "version" : "2.5"
 }
