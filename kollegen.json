@@ -1,11 +1,11 @@
 {
-  "build" : 19,
+  "build" : 20,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "RG 2.3: automatische Updates. Dazu alle Verbesserungen aus 2.2 (Versandsicherheit, Erkennung, Zoom, Barauslagen).",
-  "sha256" : "8de0ff0e4f9f9129410196a0a62fe254d9305dcd14634a9a4fc0a93fc06596cb",
-  "signature" : "J1Ib06RK+SL3PEiZpQqiZ1yG5DSu0me9fTui2BCibf39Va/QZ8ZdUuIi3sTgSJu5nOhHBqOuIqj2L1z8KPztAQ==",
-  "size" : 5859063,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/kollegen-2.3/RG-Testkopie-2.3.zip",
-  "version" : "2.3"
+  "notes" : "• Versionshinweise: Nach jedem Update zeigt RG, was neu ist. Alle Hinweise findest du jederzeit im Hilfe-Menü unter «Versionshinweise».\n• Datenschutz: Eine neue Übersicht im Hilfe-Menü zeigt, welche Daten RG wo speichert, was RG liest und was RG sendet.\n• Bankverbindung und Unterschrift liegen neu im Schlüsselbund deines Macs statt in einer Datei im App-Ordner. Die Übernahme geschieht beim ersten Start automatisch.\n• Sichern und übertragen: Einstellungen und Barauslagen-Angaben lassen sich mit Passwort verschlüsselt sichern und auf einem anderen Mac wieder einlesen (Einstellungen › Allgemein).\n• Systemprüfung und «Problem melden» im Hilfe-Menü: RG prüft die wichtigsten Punkte und bereitet bei Bedarf eine E-Mail mit dem Bericht vor. Gesendet wird erst, wenn du selbst sendest.\n• Aus der «Testkopie» wird die Kollegen-Version: Betreff «RG» statt «RG TEST», neutrale Vorlage; Einstellungen und Daten bleiben erhalten.",
+  "sha256" : "8daa05aabc5ed26a86450b273d78a08a0663c115d7e77d9b570bb513ba2bd648",
+  "signature" : "Sj2uuh2hRzzUszzWJd7y69kGy44VXkJ9SH1LLqzlyktYsVdnOpY3latxF6LfywWGE9vXh9mfLKDNhK3pAc4/AQ==",
+  "size" : 6229383,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/kollegen-2.4/RG-Kollegen-2.4.zip",
+  "version" : "2.4"
 }
