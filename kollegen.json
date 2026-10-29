@@ -1,11 +1,11 @@
 {
-  "build" : 23,
+  "build" : 24,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Installation: Öffnest du RG direkt aus «Downloads», bietet RG an, sich selbst in den Ordner «Programme» zu verschieben (ohne Administratorrechte in «Programme» deines Benutzers). Eine ältere RG dort kommt in den Papierkorb.\n• Datenschutz: Gesendete Barauslagen-Abrechnungen speichern Bankverbindung und Unterschrift nicht mehr im App-Ordner; ältere Dateien werden beim Start bereinigt. Die PDFs bleiben unverändert.\n• Erkennung: «Fr. 1'200.–», Skonto, Raten, Restbetrag und Rundung, Gutschriften mit «Gutschrift-Nr.», Euro-Belege, Firmen neben der Schuladresse und das Rechnungsdatum neben «Valuta» werden zuverlässiger erkannt.\n• Barauslagen: Eine unklar gesendete Abrechnung lässt sich nach dem Prüfen in Mail als «nicht gesendet» markieren und wieder bearbeiten. Beleg und Unterschrift entfernen fragt vorher nach.\n• Journal: Ein beschädigter Eintrag blockiert den Versand nicht mehr dauerhaft – du kannst ihn im Journal beiseitelegen. «Nicht gesendet» funktioniert auch bei gleichen Dateinamen. Die Sperrdatei heisst neu so, dass OneDrive sie synchronisiert.\n• Bedienung: ⌘↩ sendet (nach dem Bestätigen); bei «Möglicherweise doppelte Rechnung» bedeutet die Eingabetaste «Abbrechen»; Warnung beim Wechsel des Ablageordners; Hinweis, warum «Weiter» im Assistenten grau ist; mehr Elemente wachsen beim Zoomen mit.\n• Updates: Kann RG sich nicht selbst ersetzen, sagt die Leiste das, statt ein Update zu versprechen; ein misslungener Austausch wird gemeldet; die bereitliegende Version wird direkt vor dem Austausch nochmals geprüft.\n• Sicherungsdatei: stärkere Passwort-Ableitung, ohne dass RG dabei hängt.",
-  "sha256" : "36e6f31d37fca395d8f65b0de1e8eb7e95d9c6427f28d939faf4b1b9d133fb77",
-  "signature" : "siW1KySzKNDapvXWtiGwNQS9AyHDyvIws0U+FOuLWoOcjsmSDZ+QMJIZ+siVwTM4oFCTzYkB82ZYP0KGxQ6kBQ==",
-  "size" : 6878458,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.7/RG-2.7.zip",
-  "version" : "2.7"
+  "notes" : "• Beendest du RG, während eine Rechnung noch auf Apple Mail wartet, wird sie nicht mehr übergeben, und das Journal vermerkt «nicht gesendet» statt später «Versand unklar».\n• Lässt sich das Mail-Fenster einer nicht gesendeten Nachricht nicht schliessen, meldet RG «Versandstatus unklar» statt «nicht gesendet» – so wird nichts doppelt gesendet.\n• Die Auswahl des Absenderkontos wächst beim Zoomen mit (Einstellungen und Assistent).\n• CSV-Journal: «Erfasst am» steht in Schweizer Ortszeit, also auch kurz vor Mitternacht und an Silvester beim richtigen Tag.",
+  "sha256" : "6602d81f96838c530e22a726e03cccb2ef439b6f3cd3983b57d8aa460f6f5d7d",
+  "signature" : "TsZanlPtNuCMioOlL724pg92gD0QLNzsWvHZem6w6Pfu3RW3W0MHs3TMElu/yYjrhKNJY63piisS1jQTo3VcAA==",
+  "size" : 6878331,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.8/RG-2.8.zip",
+  "version" : "2.8"
 }
