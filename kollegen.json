@@ -1,11 +1,11 @@
 {
-  "build" : 26,
+  "build" : 27,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• In der Menüleiste steht neu «RG» statt des Papierfliegers.\n• Ziehst du eine Rechnung (PDF) auf «RG», wächst daraus ein schwarzes Feld «Rechnung hier loslassen»; nach dem Loslassen öffnet sich das Fenster mit der Rechnung.\n• MacBook mit Notch: Die Maus kurz an der Notch öffnet Kacheln für Rechnung senden, Barauslagen, Journal und Einstellungen. Eine PDF an der Notch öffnet die Ablage.",
-  "sha256" : "d3f5bfc7e65e21956e200510d26549b200f4461c76eabd46e758041cb015368f",
-  "signature" : "fMzX7rCIhvmJuYcAsTDp30fWzH5XCvzRHQ0cVaT05/7VoNFjfzi9sa1DUY/i7NSgQDEqJ8vnsL6gALVzqb6ACA==",
-  "size" : 6921934,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.9.1/RG-2.9.1.zip",
-  "version" : "2.9.1"
+  "notes" : "• Das Rechnungsjournal hat oben in der Symbolleiste einen eigenen, grösseren Knopf mit der Beschriftung «Journal».",
+  "sha256" : "6ff334ce8dfc806717b1696f9d82d0b506df5ce13473ff2d4f7f58bf7ce866e3",
+  "signature" : "c3yhnccJjuh/SdEpeUARN9SYnU5kumk6f0pFHKcXaL9x7mm+Gu7J2OLj3f/xfxvkePrgPNiFtWpNHRBIwRR6Dg==",
+  "size" : 6936942,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.9.2/RG-2.9.2.zip",
+  "version" : "2.9.2"
 }
