@@ -1,11 +1,11 @@
 {
-  "build" : 27,
+  "build" : 28,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Das Rechnungsjournal hat oben in der Symbolleiste einen eigenen, grösseren Knopf mit der Beschriftung «Journal».",
-  "sha256" : "6ff334ce8dfc806717b1696f9d82d0b506df5ce13473ff2d4f7f58bf7ce866e3",
-  "signature" : "c3yhnccJjuh/SdEpeUARN9SYnU5kumk6f0pFHKcXaL9x7mm+Gu7J2OLj3f/xfxvkePrgPNiFtWpNHRBIwRR6Dg==",
-  "size" : 6936942,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.9.2/RG-2.9.2.zip",
-  "version" : "2.9.2"
+  "notes" : "• Feinschliff der Gestaltung: einheitliche Abstände und Ecken, Gruppen bei Rechnungen und Barauslagen gleich aufgebaut, Titel bündig mit dem Inhalt.\n• Barauslagen: «Abrechnungsart» sitzt auf gleicher Höhe wie die Felder daneben; alle Beschriftungen haben dieselbe Grösse.\n• Die Nachrichtenvorlage hat runde Ecken, das Logo in Assistent und Hilfe die Form eines App-Symbols.",
+  "sha256" : "867290dc09630554f00e033e46e8ba49c2fb8f636c03f03dd290e716cb37a834",
+  "signature" : "GHTC3EJAmqlXl+x+AiTWbpZDNZ5PFHAHURddsV5l062cS+QV3trVjzxo+RlrPA6aKLGTN6qpBROFrZ+rOZvnAg==",
+  "size" : 6893653,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.9.3/RG-2.9.3.zip",
+  "version" : "2.9.3"
 }
