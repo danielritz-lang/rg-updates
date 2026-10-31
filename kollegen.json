@@ -1,11 +1,11 @@
 {
-  "build" : 44,
+  "build" : 45,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Neuer Bereich «Rechnungen WF» (⌘2; Barauslagen neu ⌘3): eigener Empfänger und ein Betreff aus festem Teil plus den Menüs ZK, SA und KST. Die Menüs richtest du unter Einstellungen › Rechnungen WF ein – von Hand oder mit einer Excel-Datei.\n• Barauslagen: Vorschau des Belegs rechts und ein Haken «Beleg geprüft» pro Beleg. Gesendet wird erst, wenn alle Belege abgehakt sind.\n• Barauslagen: Schule oder Organisation und eine Referenz oben rechts stehen neu unter Einstellungen › Barauslagen › «Kopf der Abrechnung». Bitte einmal die Schule eintragen.\n• Einstellungen › Allgemein: Schalter «Notch des MacBooks verwenden».\n• Alles Weitere: Hilfe › Versionshinweise.",
-  "sha256" : "2ea9927993e220a040ba509cb8280f08f6d2cc1be2f6004ab8fb589c80e24dc6",
-  "signature" : "gi/nNOn+C2EkvlcrsgI4jVacT+rPBesKcuzbrhnfr4ggWs+7+R8DKP1DehqiUWAwKJ27HSjluPBKv2jRBtqYAA==",
-  "size" : 7470163,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.15/RG-2.10.15.zip",
-  "version" : "2.10.15"
+  "notes" : "• Einstellungen › Allgemein › Updates: Der Status nennt jetzt die installierte Version, z. B. «RG 2.10.16 ist auf dem neusten Stand.»",
+  "sha256" : "c2dc309be0bfe46a65b5038ab4f3293c848a6c453d03431fc4788acdedccef30",
+  "signature" : "kITpNKSqXmeL6H0BM5bw0zDa7Zw14hudwHNbxXUnhDhfSCYiPcpo+BfbCKWvSywiyczEv2l8pb0dKvFtJ+qlCw==",
+  "size" : 7470270,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.16/RG-2.10.16.zip",
+  "version" : "2.10.16"
 }
