@@ -1,11 +1,11 @@
 {
-  "build" : 28,
+  "build" : 44,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Feinschliff der Gestaltung: einheitliche Abstände und Ecken, Gruppen bei Rechnungen und Barauslagen gleich aufgebaut, Titel bündig mit dem Inhalt.\n• Barauslagen: «Abrechnungsart» sitzt auf gleicher Höhe wie die Felder daneben; alle Beschriftungen haben dieselbe Grösse.\n• Die Nachrichtenvorlage hat runde Ecken, das Logo in Assistent und Hilfe die Form eines App-Symbols.",
-  "sha256" : "867290dc09630554f00e033e46e8ba49c2fb8f636c03f03dd290e716cb37a834",
-  "signature" : "GHTC3EJAmqlXl+x+AiTWbpZDNZ5PFHAHURddsV5l062cS+QV3trVjzxo+RlrPA6aKLGTN6qpBROFrZ+rOZvnAg==",
-  "size" : 6893653,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.9.3/RG-2.9.3.zip",
-  "version" : "2.9.3"
+  "notes" : "• Neuer Bereich «Rechnungen WF» (⌘2; Barauslagen neu ⌘3): eigener Empfänger und ein Betreff aus festem Teil plus den Menüs ZK, SA und KST. Die Menüs richtest du unter Einstellungen › Rechnungen WF ein – von Hand oder mit einer Excel-Datei.\n• Barauslagen: Vorschau des Belegs rechts und ein Haken «Beleg geprüft» pro Beleg. Gesendet wird erst, wenn alle Belege abgehakt sind.\n• Barauslagen: Schule oder Organisation und eine Referenz oben rechts stehen neu unter Einstellungen › Barauslagen › «Kopf der Abrechnung». Bitte einmal die Schule eintragen.\n• Einstellungen › Allgemein: Schalter «Notch des MacBooks verwenden».\n• Alles Weitere: Hilfe › Versionshinweise.",
+  "sha256" : "2ea9927993e220a040ba509cb8280f08f6d2cc1be2f6004ab8fb589c80e24dc6",
+  "signature" : "gi/nNOn+C2EkvlcrsgI4jVacT+rPBesKcuzbrhnfr4ggWs+7+R8DKP1DehqiUWAwKJ27HSjluPBKv2jRBtqYAA==",
+  "size" : 7470163,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.15/RG-2.10.15.zip",
+  "version" : "2.10.15"
 }
