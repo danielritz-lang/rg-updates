@@ -1,11 +1,11 @@
 {
-  "build" : 47,
+  "build" : 48,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Updates: Startet eine neue Version nach dem Update nicht, setzt RG die vorherige Version von selbst wieder ein und lässt die fehlerhafte aus. Das gilt ab dem nächsten Update.\n• Senden: Das Prüfen der PDF und des Rechnungsjournals läuft im Hintergrund; das Fenster hängt nicht mehr, z. B. wenn der Ablageordner in OneDrive liegt und Dateien erst geladen werden.\n• Barauslagen: Belege werden im Hintergrund gelesen und übernommen; währenddessen zeigt RG einen Hinweis.\n• Rechnungsjournal: schneller mit vielen Einträgen (Speichern, Suchen, Filtern).\n• Kleinere Korrekturen hinter den Kulissen (Veröffentlichung und Prüfung der allgemeinen Ausgabe).",
-  "sha256" : "48e8b67adcd846b3c219b6aeaab780596a243e719f4fc5c0137e7b25220b3877",
-  "signature" : "HjxJwlzWiAn8cs/4RB0U1ZZe5cR//59TutrijOB+ZP3l50hMDIQ9dDxRyTYSQEvNP+lvygiiIXS6YNjEalLuDg==",
-  "size" : 7815976,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.18/RG-2.10.18.zip",
-  "version" : "2.10.18"
+  "notes" : "• Bestätigung in «Gesendet»: RG findet gesendete Rechnungen zuverlässiger, auch bei Exchange/Microsoft 365. Gesucht wird in allen Gesendet-Ordnern (auch «Gesendete Elemente»); ein anderer Absender (Alias), andere Schreibweise von Umlauten, Gross/klein und Leerzeichen stören nicht mehr. Kennt Mail den Anhang noch nicht, zählt der Betreff.\n• Rechnungsjournal: «Warum unklar? …» bei Einträgen mit «Versand unklar» zeigt, welche Nachrichten in «Gesendet» passen könnten und woran der Vergleich scheitert. Den Text kannst du kopieren und weitergeben.\n• Das Journal speichert neu auch den Betreff, mit dem die Rechnung gesendet wurde.",
+  "sha256" : "7d5249e18fb3072f84781d681c74e0d09e732639f7bbdeb36d13b8b053b358ad",
+  "signature" : "E5kAyONzpkgd/VRvTrem//p/JF9C4sN0ii1nHNPFrSdyc4hAFhzQt4clgbHopOkYOO5TI39ofydnHy2eamKeDg==",
+  "size" : 7908704,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.19/RG-2.10.19.zip",
+  "version" : "2.10.19"
 }
