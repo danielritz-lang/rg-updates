@@ -1,11 +1,11 @@
 {
-  "build" : 46,
+  "build" : 47,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• «Versand unklar»: RG schaut in der Stunde danach alle 10 Minuten erneut unter «Gesendet» nach und bei jedem Start auch bei unklaren Rechnungen der letzten drei Tage. Sobald eine Rechnung gefunden ist, steht sie im Journal als «In Gesendet bestätigt», und RG meldet es im Fenster und als Mitteilung von macOS.\n• Barauslagen: Fotos von Belegen kommen verkleinert (höchstens 2000 Pixel, als JPEG) in die Abrechnung; ein Handyfoto braucht so meist weniger als 1 MB. Unter dem Total steht laufend, wie gross die Abrechnung etwa wird, mit Warnung über 20 MB. Deine Belegdateien selbst bleiben unverändert.\n• PDFs mit Kopier- oder Bearbeitungsschutz, die sich ohne Passwort öffnen lassen, werden jetzt angenommen (Rechnungen und Belege).\n• Rechnungen WF: Wer in den Einstellungen den Code des Standard-Eintrags löscht und neu tippt, behält den Standard auf diesem Eintrag; vorher sprang er auf einen anderen.\n• Rechnungsjournal: Wurde die CSV-Datei in Excel gespeichert, sendet RG trotzdem weiter. Das Journal bleibt vollständig; die CSV lässt sich im Journal mit «CSV neu erstellen» erneuern.\n• Barauslagen: «Speichern erneut prüfen» lädt die Barauslagen neu, z. B. nach einem abgebrochenen Schlüsselbund-Dialog; ein Neustart von RG ist nicht mehr nötig.\n• Beträge mit anderen Apostrophen (z. B. 1‘234.50) werden richtig gelesen.",
-  "sha256" : "c6c22952b13f27b835a82a383f55a1f9e1fadabcf494de32dea76f1ffe2f2cf8",
-  "signature" : "K2jsXbS3H1piVlaxbqtuYCAe4nU785GMYHLo/2ftDn9s+JiI8cnyfM0INmts6+mk1A4Rbz2DiRuB+BlhFVTfAw==",
-  "size" : 7522590,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.17/RG-2.10.17.zip",
-  "version" : "2.10.17"
+  "notes" : "• Updates: Startet eine neue Version nach dem Update nicht, setzt RG die vorherige Version von selbst wieder ein und lässt die fehlerhafte aus. Das gilt ab dem nächsten Update.\n• Senden: Das Prüfen der PDF und des Rechnungsjournals läuft im Hintergrund; das Fenster hängt nicht mehr, z. B. wenn der Ablageordner in OneDrive liegt und Dateien erst geladen werden.\n• Barauslagen: Belege werden im Hintergrund gelesen und übernommen; währenddessen zeigt RG einen Hinweis.\n• Rechnungsjournal: schneller mit vielen Einträgen (Speichern, Suchen, Filtern).\n• Kleinere Korrekturen hinter den Kulissen (Veröffentlichung und Prüfung der allgemeinen Ausgabe).",
+  "sha256" : "48e8b67adcd846b3c219b6aeaab780596a243e719f4fc5c0137e7b25220b3877",
+  "signature" : "HjxJwlzWiAn8cs/4RB0U1ZZe5cR//59TutrijOB+ZP3l50hMDIQ9dDxRyTYSQEvNP+lvygiiIXS6YNjEalLuDg==",
+  "size" : 7815976,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.18/RG-2.10.18.zip",
+  "version" : "2.10.18"
 }
