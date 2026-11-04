@@ -1,11 +1,11 @@
 {
-  "build" : 48,
+  "build" : 49,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Bestätigung in «Gesendet»: RG findet gesendete Rechnungen zuverlässiger, auch bei Exchange/Microsoft 365. Gesucht wird in allen Gesendet-Ordnern (auch «Gesendete Elemente»); ein anderer Absender (Alias), andere Schreibweise von Umlauten, Gross/klein und Leerzeichen stören nicht mehr. Kennt Mail den Anhang noch nicht, zählt der Betreff.\n• Rechnungsjournal: «Warum unklar? …» bei Einträgen mit «Versand unklar» zeigt, welche Nachrichten in «Gesendet» passen könnten und woran der Vergleich scheitert. Den Text kannst du kopieren und weitergeben.\n• Das Journal speichert neu auch den Betreff, mit dem die Rechnung gesendet wurde.",
-  "sha256" : "7d5249e18fb3072f84781d681c74e0d09e732639f7bbdeb36d13b8b053b358ad",
-  "signature" : "E5kAyONzpkgd/VRvTrem//p/JF9C4sN0ii1nHNPFrSdyc4hAFhzQt4clgbHopOkYOO5TI39ofydnHy2eamKeDg==",
-  "size" : 7908704,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.19/RG-2.10.19.zip",
-  "version" : "2.10.19"
+  "notes" : "• Bestätigung in «Gesendet» sicherer: Eine Nachricht, die schon zu einer anderen Rechnung gehört, bestätigt keine zweite mehr. Bestätigt wird nur noch eine Nachricht mit der PDF als Anhang. Zeigt Mail in «Gesendet» die Nachricht ohne PDF, steht «Versand unklar» mit dem Hinweis, in Mail zu prüfen, ob die PDF angehängt ist (in einem Test hat Apple Mail einzelne Rechnungen ohne PDF gesendet). Vor dem Senden wartet RG länger, bis Mail die PDF übernommen hat.\n• «Versand unklar» und «Versand offen» werden auch nach einem Fehler bei der Übergabe und nach einem schnellen Neustart weiter nachgeprüft. «Warum unklar? …» nennt Ordner, die Mail nicht durchsuchen liess.\n• Beenden während zwei Übergaben gleichzeitig laufen (Rechnung und Barauslagen): Beide werden richtig als «nicht gesendet» vermerkt.\n• Barauslagen: während Belege übernommen werden, lassen sich keine neue Abrechnung beginnen und nichts senden; fehlt eine Belegkopie, nennt die Vorschau den Beleg; lange Organisation im Kopf läuft nicht mehr in den Titel; {{datum}} in der Mail als TT.MM.JJJJ.\n• Erkennung: QR-Rechnung ohne Betrag überschreibt den Betrag nicht mehr; Gutschrift, Mahnung und Lieferant werden genauer erkannt.\n• Excel: Codes behalten führende Nullen; beschädigte Dateien werden gemeldet; der Export ersetzt die alte Datei erst, wenn die neue fertig ist.\n• Fenster und Sicherung: ein minimiertes Fenster wird zurückgeholt statt ein zweites geöffnet; eine eingelesene Sicherung wirkt sofort (auch Menüleiste und Notch); Hinweis, dass eine Sicherung Bank und Unterschrift enthält.\n• Updates: Download prüft die Antwort des Servers; «Jetzt neu starten» öffnet RG auch dann wieder, wenn etwas schiefgeht.\n• Viele kleinere Korrekturen aus einem Audit (Texte, Datumsprüfung, Journal im Hintergrund).",
+  "sha256" : "144a4d60c612eb3bb0e2206e4e31a4af827c57b55ddc45319f1ac05800702122",
+  "signature" : "sTdrJQCRoN/aImc1p/Exsph5olm0NXk+NrUtltoNG3xyicsPuIkov1zqH4KFvEIMbKkVv7Q1to71vPo82XDjDw==",
+  "size" : 8114086,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.20/RG-2.10.20.zip",
+  "version" : "2.10.20"
 }
