@@ -1,11 +1,11 @@
 {
-  "build" : 49,
+  "build" : 50,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Bestätigung in «Gesendet» sicherer: Eine Nachricht, die schon zu einer anderen Rechnung gehört, bestätigt keine zweite mehr. Bestätigt wird nur noch eine Nachricht mit der PDF als Anhang. Zeigt Mail in «Gesendet» die Nachricht ohne PDF, steht «Versand unklar» mit dem Hinweis, in Mail zu prüfen, ob die PDF angehängt ist (in einem Test hat Apple Mail einzelne Rechnungen ohne PDF gesendet). Vor dem Senden wartet RG länger, bis Mail die PDF übernommen hat.\n• «Versand unklar» und «Versand offen» werden auch nach einem Fehler bei der Übergabe und nach einem schnellen Neustart weiter nachgeprüft. «Warum unklar? …» nennt Ordner, die Mail nicht durchsuchen liess.\n• Beenden während zwei Übergaben gleichzeitig laufen (Rechnung und Barauslagen): Beide werden richtig als «nicht gesendet» vermerkt.\n• Barauslagen: während Belege übernommen werden, lassen sich keine neue Abrechnung beginnen und nichts senden; fehlt eine Belegkopie, nennt die Vorschau den Beleg; lange Organisation im Kopf läuft nicht mehr in den Titel; {{datum}} in der Mail als TT.MM.JJJJ.\n• Erkennung: QR-Rechnung ohne Betrag überschreibt den Betrag nicht mehr; Gutschrift, Mahnung und Lieferant werden genauer erkannt.\n• Excel: Codes behalten führende Nullen; beschädigte Dateien werden gemeldet; der Export ersetzt die alte Datei erst, wenn die neue fertig ist.\n• Fenster und Sicherung: ein minimiertes Fenster wird zurückgeholt statt ein zweites geöffnet; eine eingelesene Sicherung wirkt sofort (auch Menüleiste und Notch); Hinweis, dass eine Sicherung Bank und Unterschrift enthält.\n• Updates: Download prüft die Antwort des Servers; «Jetzt neu starten» öffnet RG auch dann wieder, wenn etwas schiefgeht.\n• Viele kleinere Korrekturen aus einem Audit (Texte, Datumsprüfung, Journal im Hintergrund).",
-  "sha256" : "144a4d60c612eb3bb0e2206e4e31a4af827c57b55ddc45319f1ac05800702122",
-  "signature" : "sTdrJQCRoN/aImc1p/Exsph5olm0NXk+NrUtltoNG3xyicsPuIkov1zqH4KFvEIMbKkVv7Q1to71vPo82XDjDw==",
-  "size" : 8114086,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.20/RG-2.10.20.zip",
-  "version" : "2.10.20"
+  "notes" : "• Rechnungen WF: neuer Modus «Ohne Verwendungszweck» (Einstellungen › Rechnungen WF), zum Beispiel für das Sekretariat. Das Feld für den Verwendungszweck entfällt; die E-Mail enthält nur den Betreff und die PDF, keinen Text. Der Betreff entsteht wie bisher aus dem festen Teil und den Menüs ZK, SA und KST. Im Journal bleibt der Verwendungszweck leer.\n• In diesem Modus neu «Aus Mail übernehmen»: In Mail die E-Mail mit der Rechnung auswählen und im Formular auf «Aus Mail übernehmen» klicken (oder die E-Mail als Datei hineinziehen). RG nimmt die PDF als Rechnung und sendet den Text der E-Mail unter «Weitergeleitete Nachricht» mit, mit Absender, Datum und Betreff; die Nachrichtenvorschau zeigt ihn vorher. In Mail wird nichts verändert. Enthält die E-Mail mehrere PDFs, wählst du die Rechnung aus. «Aus Mail übernehmen» gibt es mit Apple Mail; aus anderen Mail-Programmen die E-Mail als Datei (.eml) hineinziehen.\n• Eine PDF, die du während des Sendens auf «RG» in der Menüleiste ziehst, verdrängt eine nicht gesendete Rechnung nicht mehr: Die neue PDF wartet, bis die Rechnung im Formular gesendet oder entfernt ist, und die Fehlermeldung bleibt stehen.",
+  "sha256" : "b1beb9735e39229a98494d83c3bfaa77cfdb73c2de68458ba735f4707e6a6ad7",
+  "signature" : "Ceo1XejatCKDbv7BPe0F1b7sOtofKtBaN7L5yx96HFM+5vL7e+sQCmzUS5mMAYfXbRUx/nQB/+gVGeFzlyXzDQ==",
+  "size" : 8430090,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.21/RG-2.10.21.zip",
+  "version" : "2.10.21"
 }
