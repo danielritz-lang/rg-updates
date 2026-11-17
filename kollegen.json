@@ -1,11 +1,11 @@
 {
-  "build" : 57,
+  "build" : 58,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Neues Aussehen nach dem Vorbild von macOS 27 (ab macOS 26): Knöpfe, Menüs und Umschalter als Kapseln, Gruppen mit grösseren runden Ecken ohne Rahmen, «Rechnung senden» und «Barauslagen senden» als grosser Knopf unten rechts. Auf macOS 14 und 15 bleibt das bisherige Aussehen.",
-  "sha256" : "bada7d0789a1d47f8a5543e8a9db477fc3d3c4fb553e8d7eabf944cac5e65b24",
-  "signature" : "vD9GE7wwD+khFI1u+bFckELX9e4sjS06yg13S3QCl39ZcrZhXUBQZMHYdTJr4LSyJpFq2bgQ01BGJBgReEihAw==",
-  "size" : 9066443,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.28/RG-2.10.28.zip",
-  "version" : "2.10.28"
+  "notes" : "• Behoben: RG konnte abstürzen, wenn VoiceOver oder ein anderes Programm über die Bedienungshilfen von macOS das Fenster abfragte, zum Beispiel gleich nach dem Wechsel zwischen «Rechnungen», «Rechnungen WF» und «Barauslagen».",
+  "sha256" : "5cf2f3b0e81f0acd9e2422422d2170425c1d4fa23ec6bd97f3eb03cedf626572",
+  "signature" : "JDfH4BRv0XELastBICuW6p3RlZRoNhNbqJOD7wkjRGIQOlE/d+IH1voUToXGkZQjMa67EL2lwsL4jl5Xv6yGCw==",
+  "size" : 9060950,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.29/RG-2.10.29.zip",
+  "version" : "2.10.29"
 }
