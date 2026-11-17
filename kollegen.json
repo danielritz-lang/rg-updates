@@ -1,11 +1,11 @@
 {
-  "build" : 53,
+  "build" : 54,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Antwortet der Ablageordner nicht (zum Beispiel weil OneDrive hängt), zeigt RG im Journal und im Formular nach einigen Sekunden, dass der Ordner nicht antwortet und was du tun kannst, statt nur zu laden. RG macht weiter, sobald der Ordner wieder antwortet.",
-  "sha256" : "194cf401417c6356bdd882ffc3e23c52b1eeaea60ff7394e43dbd99a8d575f81",
-  "signature" : "0AbuAJSILMUFk6nOcTvgaS6v9kSLjbCqUHaQ64R796RmW3o4dTfdZIAfeSTYyemSNe9LkMxwYZgfbTIggJHsAw==",
-  "size" : 8950327,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.24/RG-2.10.24.zip",
-  "version" : "2.10.24"
+  "notes" : "• Nur für Journale mit übernommenem Altbestand: Eine Rechnung, die nur als «Altbestand importiert» im Journal steht, sperrt RG nicht mehr. RG fragt nach, weil nicht bekannt ist, ob sie damals gesendet wurde; mit «Trotzdem senden» wird sie unter einem eigenen Namen abgelegt und gesendet. Bitte vorher im E-Mail-Programm unter «Gesendet» nachsehen. Im Rechnungsjournal zählt sie danach nur einmal zur Summe.",
+  "sha256" : "584d4c90e4dc90d5ef90f3c71851f017b8c50ec4b63aa3cdd005fe0964256221",
+  "signature" : "5ARlbvVh78ThRLj/AKHR+hTuJZ/5bWzFTRlCDgEEhRx5r8jqeg3Dc2uz2POM6BAIiYNvY58oWG8FESmVOJN2AQ==",
+  "size" : 8962350,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.25/RG-2.10.25.zip",
+  "version" : "2.10.25"
 }
