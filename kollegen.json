@@ -1,11 +1,11 @@
 {
-  "build" : 52,
+  "build" : 53,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Warten auf Mail bremst das Lesen nicht mehr: Antwortet Apple Mail oder Outlook langsam, liest RG PDFs und Belege trotzdem weiter. Bisher konnte dann «Die Texterkennung antwortet nicht» erscheinen, vor allem auf Macs mit wenigen Prozessorkernen.",
-  "sha256" : "a268f16a6262ef9837df9f6644193e864d3d48155c0d8e9c78e63e36547dff1d",
-  "signature" : "RPAiwG/Z1n188+3PmPYEKiyjBJmJdc2ymEfDiGt5Qm/Cdn0K9wchJ1+YZfxBP+oWvDuwy63Tw+zZnCPqcaJqAA==",
-  "size" : 8915037,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.23/RG-2.10.23.zip",
-  "version" : "2.10.23"
+  "notes" : "• Antwortet der Ablageordner nicht (zum Beispiel weil OneDrive hängt), zeigt RG im Journal und im Formular nach einigen Sekunden, dass der Ordner nicht antwortet und was du tun kannst, statt nur zu laden. RG macht weiter, sobald der Ordner wieder antwortet.",
+  "sha256" : "194cf401417c6356bdd882ffc3e23c52b1eeaea60ff7394e43dbd99a8d575f81",
+  "signature" : "0AbuAJSILMUFk6nOcTvgaS6v9kSLjbCqUHaQ64R796RmW3o4dTfdZIAfeSTYyemSNe9LkMxwYZgfbTIggJHsAw==",
+  "size" : 8950327,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.24/RG-2.10.24.zip",
+  "version" : "2.10.24"
 }
