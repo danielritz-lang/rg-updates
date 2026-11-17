@@ -1,11 +1,11 @@
 {
-  "build" : 56,
+  "build" : 57,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Rechnungen WF: neues Menü «IA · Innenaufträge» unter KST. Der gewählte Innenauftrag steht am Ende des Betreffs, z. B. «… KST 12345678 IA 123456789012». Mit «Keine Auswahl» (Standard) kommt kein Innenauftrag in den Betreff. Die Einträge legst du unter Einstellungen › Rechnungen WF fest oder liest sie mit Excel ein (neues Blatt «IA Innenaufträge»; eine ältere Excel-Datei ohne dieses Blatt lässt die Innenaufträge, wie sie sind).\n• Rechnungen WF: Auch bei KST gibt es jetzt «Keine Auswahl»; dann kommt keine Kostenstelle in den Betreff. Nur SA muss immer gewählt sein.",
-  "sha256" : "2f4031eac51b2964d40c4bc974bd3db3ff29c5f8615ef43be02c59107c74fb3b",
-  "signature" : "M0F7Wfh7QvwSx7XphhxQT66w2BHTuYUsm+VFWd11AKgTyXmGnUYg4As/WfHr4yD/CAkqx/Fr7R6YMwCVbdZHDA==",
-  "size" : 9043884,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.27/RG-2.10.27.zip",
-  "version" : "2.10.27"
+  "notes" : "• Neues Aussehen nach dem Vorbild von macOS 27 (ab macOS 26): Knöpfe, Menüs und Umschalter als Kapseln, Gruppen mit grösseren runden Ecken ohne Rahmen, «Rechnung senden» und «Barauslagen senden» als grosser Knopf unten rechts. Auf macOS 14 und 15 bleibt das bisherige Aussehen.",
+  "sha256" : "bada7d0789a1d47f8a5543e8a9db477fc3d3c4fb553e8d7eabf944cac5e65b24",
+  "signature" : "vD9GE7wwD+khFI1u+bFckELX9e4sjS06yg13S3QCl39ZcrZhXUBQZMHYdTJr4LSyJpFq2bgQ01BGJBgReEihAw==",
+  "size" : 9066443,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.28/RG-2.10.28.zip",
+  "version" : "2.10.28"
 }
