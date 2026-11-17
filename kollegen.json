@@ -1,11 +1,11 @@
 {
-  "build" : 54,
+  "build" : 56,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Nur für Journale mit übernommenem Altbestand: Eine Rechnung, die nur als «Altbestand importiert» im Journal steht, sperrt RG nicht mehr. RG fragt nach, weil nicht bekannt ist, ob sie damals gesendet wurde; mit «Trotzdem senden» wird sie unter einem eigenen Namen abgelegt und gesendet. Bitte vorher im E-Mail-Programm unter «Gesendet» nachsehen. Im Rechnungsjournal zählt sie danach nur einmal zur Summe.",
-  "sha256" : "584d4c90e4dc90d5ef90f3c71851f017b8c50ec4b63aa3cdd005fe0964256221",
-  "signature" : "5ARlbvVh78ThRLj/AKHR+hTuJZ/5bWzFTRlCDgEEhRx5r8jqeg3Dc2uz2POM6BAIiYNvY58oWG8FESmVOJN2AQ==",
-  "size" : 8962350,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.25/RG-2.10.25.zip",
-  "version" : "2.10.25"
+  "notes" : "• Rechnungen WF: neues Menü «IA · Innenaufträge» unter KST. Der gewählte Innenauftrag steht am Ende des Betreffs, z. B. «… KST 12345678 IA 123456789012». Mit «Keine Auswahl» (Standard) kommt kein Innenauftrag in den Betreff. Die Einträge legst du unter Einstellungen › Rechnungen WF fest oder liest sie mit Excel ein (neues Blatt «IA Innenaufträge»; eine ältere Excel-Datei ohne dieses Blatt lässt die Innenaufträge, wie sie sind).\n• Rechnungen WF: Auch bei KST gibt es jetzt «Keine Auswahl»; dann kommt keine Kostenstelle in den Betreff. Nur SA muss immer gewählt sein.",
+  "sha256" : "2f4031eac51b2964d40c4bc974bd3db3ff29c5f8615ef43be02c59107c74fb3b",
+  "signature" : "M0F7Wfh7QvwSx7XphhxQT66w2BHTuYUsm+VFWd11AKgTyXmGnUYg4As/WfHr4yD/CAkqx/Fr7R6YMwCVbdZHDA==",
+  "size" : 9043884,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.27/RG-2.10.27.zip",
+  "version" : "2.10.27"
 }
