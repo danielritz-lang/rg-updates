@@ -1,11 +1,11 @@
 {
-  "build" : 58,
+  "build" : 59,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Behoben: RG konnte abstürzen, wenn VoiceOver oder ein anderes Programm über die Bedienungshilfen von macOS das Fenster abfragte, zum Beispiel gleich nach dem Wechsel zwischen «Rechnungen», «Rechnungen WF» und «Barauslagen».",
-  "sha256" : "5cf2f3b0e81f0acd9e2422422d2170425c1d4fa23ec6bd97f3eb03cedf626572",
-  "signature" : "JDfH4BRv0XELastBICuW6p3RlZRoNhNbqJOD7wkjRGIQOlE/d+IH1voUToXGkZQjMa67EL2lwsL4jl5Xv6yGCw==",
-  "size" : 9060950,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.29/RG-2.10.29.zip",
-  "version" : "2.10.29"
+  "notes" : "• Symbolleiste wie in Apples eigenen Apps: «Journal» und «Einstellungen» teilen sich eine Kapsel mit Symbolen (der Name erscheint, wenn du mit der Maus darauf zeigst). Die Symbole haben wieder die Grösse, die macOS vorsieht; vorher machte die Zoom-Funktion von RG sie zu klein und das Zahnrad zu einem schmalen Oval.",
+  "sha256" : "9856cf4d9c94908307d0a80d06cdf34fb8e262bc70cbde3abc6883dfb2fd0548",
+  "signature" : "5In0rx/g/AiI3ksCdjNlIxQqKMmy6EO58f/VCxbKA1aaS6U1FQhfTRS+vmod0LzjZ2AuiIwQnWlyolSbyugqBw==",
+  "size" : 9054238,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.30/RG-2.10.30.zip",
+  "version" : "2.10.30"
 }
