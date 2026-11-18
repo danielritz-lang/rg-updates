@@ -1,11 +1,11 @@
 {
-  "build" : 61,
+  "build" : 62,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• RG lernt pro Lieferant: Korrigierst du Firma, Datum oder Betrag vor dem Senden, merkt sich RG, wo bei diesem Lieferanten die richtige Angabe steht, und liest seine nächste Rechnung damit. Das bleibt auf deinem Mac; unter Einstellungen › Rechnungen siehst du, wie viele Lieferanten RG kennt, und kannst das Gelernte vergessen.",
-  "sha256" : "25a1a3d9acbbc8792f31b26de1bdbd6a3822f7af9081e9630d718b4350014849",
-  "signature" : "rfgMMO7vfWrgf1tC9MCsHk8TqcyAGioN3GCJ8EWSjrazzjW4ZyVE6GFdJDEqrsocCRhKNXh/oxbrqeuMDhkLAg==",
-  "size" : 9151061,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.32/RG-2.10.32.zip",
-  "version" : "2.10.32"
+  "notes" : "• Lernen pro Lieferant verbessert: Schreibst du einen Lieferanten später anders (z. B. kürzer), übernimmt RG den neuen Namen, statt bei diesem Lieferanten nichts mehr zu lernen. Eine korrigierte Firma ohne UID oder IBAN auf der Rechnung erkennt RG beim nächsten Mal wieder. Beim Betrag lernt RG nie mehr ein Stück eines Datums oder einer grösseren Zahl.",
+  "sha256" : "dcc3689e9c86ca95bf775cc964621a1131b2019280eaa3889ca1361cd6a0fc64",
+  "signature" : "CLPbs8Vi0gqP5MFlRM0hu/5yDUItN+VVp1MdP+pGIj++My0Ov5uLd5PPvFqzSfzoLdI7Vuhu9q57RbAbpaKsCQ==",
+  "size" : 9155860,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.33/RG-2.10.33.zip",
+  "version" : "2.10.33"
 }
