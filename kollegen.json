@@ -1,11 +1,11 @@
 {
-  "build" : 59,
+  "build" : 60,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Symbolleiste wie in Apples eigenen Apps: «Journal» und «Einstellungen» teilen sich eine Kapsel mit Symbolen (der Name erscheint, wenn du mit der Maus darauf zeigst). Die Symbole haben wieder die Grösse, die macOS vorsieht; vorher machte die Zoom-Funktion von RG sie zu klein und das Zahnrad zu einem schmalen Oval.",
-  "sha256" : "9856cf4d9c94908307d0a80d06cdf34fb8e262bc70cbde3abc6883dfb2fd0548",
-  "signature" : "5In0rx/g/AiI3ksCdjNlIxQqKMmy6EO58f/VCxbKA1aaS6U1FQhfTRS+vmod0LzjZ2AuiIwQnWlyolSbyugqBw==",
-  "size" : 9054238,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.30/RG-2.10.30.zip",
-  "version" : "2.10.30"
+  "notes" : "• Rechnungsdatum: RG erkennt jetzt auch die Beschriftung «Rechnungs-/ Lieferdatum» (mit Schrägstrich); bisher blieb das Datum bei solchen Rechnungen leer.\n• Neutralere Texte: Hilfe, Excel-Anleitung und Beispiele nennen keine Behörde und keinen echten Ort mehr (z. B. «1234 Musterort» als Beispiel für PLZ und Ort).",
+  "sha256" : "1dba40f73250fa40b51cedfddb317f54ccc546df635ca4f13e7cfbeb2d3d675c",
+  "signature" : "1uBuQDXlmTMHB10Sg5dMyR+a8Ha2Lo4u9dDOKBbD5DYs9tOZJl2kxF1KUX9QZ4yceuwTKff75ym6dGuCeW0gDQ==",
+  "size" : 9054750,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.31/RG-2.10.31.zip",
+  "version" : "2.10.31"
 }
