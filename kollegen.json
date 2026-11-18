@@ -1,11 +1,11 @@
 {
-  "build" : 60,
+  "build" : 61,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Rechnungsdatum: RG erkennt jetzt auch die Beschriftung «Rechnungs-/ Lieferdatum» (mit Schrägstrich); bisher blieb das Datum bei solchen Rechnungen leer.\n• Neutralere Texte: Hilfe, Excel-Anleitung und Beispiele nennen keine Behörde und keinen echten Ort mehr (z. B. «1234 Musterort» als Beispiel für PLZ und Ort).",
-  "sha256" : "1dba40f73250fa40b51cedfddb317f54ccc546df635ca4f13e7cfbeb2d3d675c",
-  "signature" : "1uBuQDXlmTMHB10Sg5dMyR+a8Ha2Lo4u9dDOKBbD5DYs9tOZJl2kxF1KUX9QZ4yceuwTKff75ym6dGuCeW0gDQ==",
-  "size" : 9054750,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.31/RG-2.10.31.zip",
-  "version" : "2.10.31"
+  "notes" : "• RG lernt pro Lieferant: Korrigierst du Firma, Datum oder Betrag vor dem Senden, merkt sich RG, wo bei diesem Lieferanten die richtige Angabe steht, und liest seine nächste Rechnung damit. Das bleibt auf deinem Mac; unter Einstellungen › Rechnungen siehst du, wie viele Lieferanten RG kennt, und kannst das Gelernte vergessen.",
+  "sha256" : "25a1a3d9acbbc8792f31b26de1bdbd6a3822f7af9081e9630d718b4350014849",
+  "signature" : "rfgMMO7vfWrgf1tC9MCsHk8TqcyAGioN3GCJ8EWSjrazzjW4ZyVE6GFdJDEqrsocCRhKNXh/oxbrqeuMDhkLAg==",
+  "size" : 9151061,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.32/RG-2.10.32.zip",
+  "version" : "2.10.32"
 }
