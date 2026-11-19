@@ -1,11 +1,11 @@
 {
-  "build" : 62,
+  "build" : 63,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Lernen pro Lieferant verbessert: Schreibst du einen Lieferanten später anders (z. B. kürzer), übernimmt RG den neuen Namen, statt bei diesem Lieferanten nichts mehr zu lernen. Eine korrigierte Firma ohne UID oder IBAN auf der Rechnung erkennt RG beim nächsten Mal wieder. Beim Betrag lernt RG nie mehr ein Stück eines Datums oder einer grösseren Zahl.",
-  "sha256" : "dcc3689e9c86ca95bf775cc964621a1131b2019280eaa3889ca1361cd6a0fc64",
-  "signature" : "CLPbs8Vi0gqP5MFlRM0hu/5yDUItN+VVp1MdP+pGIj++My0Ov5uLd5PPvFqzSfzoLdI7Vuhu9q57RbAbpaKsCQ==",
-  "size" : 9155860,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.33/RG-2.10.33.zip",
-  "version" : "2.10.33"
+  "notes" : "• Rechnungen WF: Entfernst du die PDF mit dem Papierkorb, springen die Menüs ZK, SA, KST und IA wieder auf ihren Standard, wie nach dem Senden.",
+  "sha256" : "14e0772616a89fde880bcd741786cf6956a6406943d4cc924f311f9e5b8bc6c0",
+  "signature" : "JRkDixDSVnL1Y13e1387br+nGxiD983TM1hFE8x99M9XmuZoaaBCb/lpSCYpEJ3OtZOK20ALqJQ5zsHmRT5QAQ==",
+  "size" : 9156740,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.34/RG-2.10.34.zip",
+  "version" : "2.10.34"
 }
