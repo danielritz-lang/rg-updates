@@ -1,11 +1,11 @@
 {
-  "build" : 63,
+  "build" : 64,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Rechnungen WF: Entfernst du die PDF mit dem Papierkorb, springen die Menüs ZK, SA, KST und IA wieder auf ihren Standard, wie nach dem Senden.",
-  "sha256" : "14e0772616a89fde880bcd741786cf6956a6406943d4cc924f311f9e5b8bc6c0",
-  "signature" : "JRkDixDSVnL1Y13e1387br+nGxiD983TM1hFE8x99M9XmuZoaaBCb/lpSCYpEJ3OtZOK20ALqJQ5zsHmRT5QAQ==",
-  "size" : 9156740,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.34/RG-2.10.34.zip",
-  "version" : "2.10.34"
+  "notes" : "• Vorbereitung für die von Apple geprüfte Version: RG nimmt künftige Updates auch an, wenn sie mit dem neuen Zertifikat «Developer ID» signiert sind. Sonst ändert sich nichts.",
+  "sha256" : "63ffe7811b7c4e180b5dba7c0780863ee09d8a619341b1d4c041dd1290f284bb",
+  "signature" : "2VJtgkh+T96/Z3pjdyo+5f8QB5oylyKooWW0d/AVh/rGyEmqdXMuQL0QJha9XsR2zu29bZZycQk+Q0KRVsskBA==",
+  "size" : 9161460,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.35/RG-2.10.35.zip",
+  "version" : "2.10.35"
 }
