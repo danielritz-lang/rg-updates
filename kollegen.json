@@ -1,11 +1,11 @@
 {
-  "build" : 71,
+  "build" : 73,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Eine PDF auf «RG» in der Menüleiste oder an die Notch ziehen: Darunter erscheinen drei Felder, «Rechnungen», «Rechnungen WF» und «Barauslagen». Wo du die PDF loslässt, dort landet sie; bei «Barauslagen» als neuer Beleg in der Abrechnung.\n• Einstellungen › Allgemein › «PDF auf «RG» vorgewählt für»: Dieses Feld erscheint gross und nimmt die PDF auch, wenn du sie direkt auf «RG» loslässt.",
-  "sha256" : "0c540e98218e412c8383e2214f4a014286ecf4e1a111eae5a8abf90cd6dbff90",
-  "signature" : "rIS4A3E3eAV3xLSun/MpL7JgBYkykQPw+WLQtdmV2EpFZ2Yf47DhmiE5ui6pjFPilfbxISXb61gqKjgvKwdmDg==",
-  "size" : 10313617,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.42/RG-2.10.42.zip",
-  "version" : "2.10.42"
+  "notes" : "• Die PDF steht jetzt rechts: In «Rechnungen», «Rechnungen WF» und «Barauslagen» stehen die Felder zum Ausfüllen gleich neben der Seitenleiste, die Rechnung oder der Beleg rechts davon. «Rechnung senden» und «Barauslagen senden» stehen links unter den Feldern.\n• Journal: Einträge «Nicht gesendet» und «Versand unklar», um die du dich gekümmert hast, lassen sich mit «Als erledigt ausblenden» aus diesen Listen nehmen. Gelöscht wird nichts: Die Einträge stehen weiter unter «Alle Einträge» mit «erledigt» und lassen sich wieder einblenden.",
+  "sha256" : "33157f221c75576a78c73abb05d1c134ccb8a7ca5551bcc43eead0de0fe92163",
+  "signature" : "UOH9zLszIVVbIxsnTMJLb6tuqO4IWoGaqcFcYQ1KhT59InRymRFe6x82+KboxCjKfO7yDdDdkxKwbf11hkmyCQ==",
+  "size" : 10356941,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.44/RG-2.10.44.zip",
+  "version" : "2.10.44"
 }
