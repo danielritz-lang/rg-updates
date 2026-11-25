@@ -1,11 +1,11 @@
 {
-  "build" : 73,
+  "build" : 74,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Die PDF steht jetzt rechts: In «Rechnungen», «Rechnungen WF» und «Barauslagen» stehen die Felder zum Ausfüllen gleich neben der Seitenleiste, die Rechnung oder der Beleg rechts davon. «Rechnung senden» und «Barauslagen senden» stehen links unter den Feldern.\n• Journal: Einträge «Nicht gesendet» und «Versand unklar», um die du dich gekümmert hast, lassen sich mit «Als erledigt ausblenden» aus diesen Listen nehmen. Gelöscht wird nichts: Die Einträge stehen weiter unter «Alle Einträge» mit «erledigt» und lassen sich wieder einblenden.",
-  "sha256" : "33157f221c75576a78c73abb05d1c134ccb8a7ca5551bcc43eead0de0fe92163",
-  "signature" : "UOH9zLszIVVbIxsnTMJLb6tuqO4IWoGaqcFcYQ1KhT59InRymRFe6x82+KboxCjKfO7yDdDdkxKwbf11hkmyCQ==",
-  "size" : 10356941,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.44/RG-2.10.44.zip",
-  "version" : "2.10.44"
+  "notes" : "• Korrekturen aus einer vollständigen Prüfung von RG. Journal: Nach «Als gesendet markieren» sagt RG, wo die PDF liegt, und zeigt nie die Datei einer anderen Rechnung mit demselben Namen. «Als erledigt ausblenden» gibt es bei «Nicht gesendet» und «Versand unklar»; die Zahlen in der Seitenleiste zählen laufende Prüfungen nicht mehr als unklar.\n• Lernen pro Lieferant: Eine gelernte Beschriftung gilt nur noch als ganzes Wort («Total» trifft nicht mehr «Zwischentotal»), die Währung allein wird nie gelernt.\n• PDFs auf «RG» in der Menüleiste: Mehrere PDFs warten hintereinander; keine wartende PDF verdrängt mehr eine andere oder eine Meldung. Rechnungen WF: Die Eingabetaste im offenen Menü ohne Suchtext ändert die Auswahl nicht mehr.\n• Updates: Liegt ein Update bereit, steht im Menü von «RG» in der Menüleiste «Update installieren und neu starten». ⌘Q schliesst mit «RG» in der Menüleiste nur das Fenster; ganz beenden mit ⌥⌘Q.\n• RG fragt nach, bevor es mit einer nicht gesendeten Rechnung im Formular ganz beendet wird. Barauslagen: Eine Abrechnung, bei der sicher nichts an das Mail-Programm übergeben wurde, lässt sich nach dem nächsten Start wieder bearbeiten.\n• Wer von 2.10.35 oder älter kommt: Das Aussehen ist neu (Seitenleiste links, PDF rechts), ⌘Q schliesst mit «RG» in der Menüleiste nur das Fenster (ganz beenden: ⌥⌘Q), und macOS fragt einmal neu, ob RG Mail oder Outlook steuern darf und nach dem Passwort des Macs für Bankverbindung und Unterschrift.",
+  "sha256" : "1692a7188dd779d334b4ca3e8d389e3a9c7e3005ac5b6285e6bdb5f0d0cb6df1",
+  "signature" : "6t7K01umHdMH8/EdX/x0k0Jtrd6Gj8MdXXHqlaBP+7dBdJE6rnu6pfIVBKz2oK7hY0AGLZ7nONGuXlNRE9wJBw==",
+  "size" : 10632111,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.45/RG-2.10.45.zip",
+  "version" : "2.10.45"
 }
