@@ -1,11 +1,11 @@
 {
-  "build" : 76,
+  "build" : 77,
   "channel" : "kollegen",
   "minimumSystemVersion" : "14.0",
-  "notes" : "• Rechnungen WF mit «Ohne Verwendungszweck»: Eine E-Mail mit Rechnung lässt sich direkt aus der Liste von Outlook ins Formular ziehen; der Umweg über den Schreibtisch ist nicht mehr nötig. RG nimmt die PDF als Rechnung und sendet den Text der E-Mail mit.\n• Senden nur noch über Apple Mail: Das neue Outlook lässt sich nicht steuern, und das alte Outlook funktioniert seit Oktober 2026 nicht mehr mit Microsoft 365. Wer Outlook eingestellt hatte, sendet ab jetzt über Apple Mail; RG stellt das von selbst um. Dein Konto richtest du in Apple Mail ein (Systemeinstellungen › Internetaccounts) und wählst es unter Einstellungen › E-Mail & Ablage als Absender.\n• Aus 2.10.45: Korrekturen aus einer vollständigen Prüfung von RG. Journal: Nach «Als gesendet markieren» sagt RG, wo die PDF liegt; «Als erledigt ausblenden» gibt es bei «Nicht gesendet» und «Versand unklar»; die Zahlen in der Seitenleiste zählen laufende Prüfungen nicht mehr als unklar. Lernen pro Lieferant: Eine gelernte Beschriftung gilt nur noch als ganzes Wort. Mehrere PDFs auf «RG» in der Menüleiste warten hintereinander. Liegt ein Update bereit, steht im Menü von «RG» in der Menüleiste «Update installieren und neu starten».\n• Wer von 2.10.35 oder älter kommt: Das Aussehen ist neu (Seitenleiste links, PDF rechts), ⌘Q schliesst mit «RG» in der Menüleiste nur das Fenster (ganz beenden: ⌥⌘Q), und macOS fragt einmal neu, ob RG Mail steuern darf und nach dem Passwort des Macs für Bankverbindung und Unterschrift.",
-  "sha256" : "3c38cdd273bb408bf456944ac3ba6378eda71701e67ff5097a17f83ca5215f43",
-  "signature" : "Id3JfBHE+pgARrJ8uS2oFKl1Hqd4z0XSRWPFu3ctkaaLObvOKKAVgi+5+cA4P7vKZbwRmfmTB1gsPMfd6jwqDQ==",
-  "size" : 10630965,
-  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.46/RG-2.10.46.zip",
-  "version" : "2.10.46"
+  "notes" : "• Die Spalte mit den Feldern zum Ausfüllen ist breiter (rund 20 %). Das Fenster lässt sich nicht mehr so klein ziehen, dass Seitenleiste, PDF oder «Rechnung senden» abgeschnitten werden.\n• Unten in der Seitenleiste leuchtet neben «Senden mit Apple Mail» ein Lämpchen grün, wenn Apple Mail geöffnet ist und RG es steuern darf; orange, wenn RG Mail nicht steuern darf.\n• Aus 2.10.46: Senden nur noch über Apple Mail (das neue Outlook lässt sich nicht steuern, das alte funktioniert seit Oktober 2026 nicht mehr mit Microsoft 365); RG stellt von Outlook von selbst um. Dein Konto richtest du in Apple Mail ein (Systemeinstellungen › Internetaccounts). Rechnungen WF mit «Ohne Verwendungszweck»: Eine E-Mail mit Rechnung lässt sich direkt aus Outlook ins Formular ziehen.\n• Wer von 2.10.35 oder älter kommt: Das Aussehen ist neu (Seitenleiste links, PDF rechts), ⌘Q schliesst mit «RG» in der Menüleiste nur das Fenster (ganz beenden: ⌥⌘Q), und macOS fragt einmal neu, ob RG Mail steuern darf und nach dem Passwort des Macs für Bankverbindung und Unterschrift.",
+  "sha256" : "2ce38c0fe5c05a77d4589f49b47b98f970178d04068d82aaedd35c119e7fc0d6",
+  "signature" : "ZNEfHDwZnHB1uHUxk5mw1CYF9WzFctyn8KuCNus4KmU8DklKLZwUHMMMWaRoLcNm1DrNI/JD1zQoW2a2OZYsCg==",
+  "size" : 10686179,
+  "url" : "https://github.com/danielritz-lang/rg-updates/releases/download/v2.10.47/RG-2.10.47.zip",
+  "version" : "2.10.47"
 }
